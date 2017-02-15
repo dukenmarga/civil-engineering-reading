@@ -1,5 +1,5 @@
 # civil-engineering-reading
-Resources (book &amp; document) on internet all about civil engineering
+Resources (book &amp; document, software) on internet all about civil engineering
 
 ##Table of Content
 * [Structural](#structural)
@@ -9,18 +9,20 @@ Resources (book &amp; document) on internet all about civil engineering
     * [Timber](#timber)
  * [Structure](#structure)
     * [Bridge](#bridge)
- * [Design Code](#design code)
+ * [Design Code](#design-code)
     * [Concrete](#codeconcrete)
     * [Steel](#codesteel)
 * [Geotechnic](#geotechnic)
-
+* [Software]
+ * [Earthquake Simulation](#soft-earthquake)
 
 ##Structural
 ###Material
 * **Concrete** <a name="concrete"></a>
   * *Book (Commercial)*
     * [Reinforced Concrete: Mechanics and Design (7th Edition)](https://www.amazon.com/Reinforced-Concrete-Mechanics-Design-7th/dp/013348596X/), James Grierson MacGregor
-  * *Article*
+  * *Article & Paper*
+    * [Steel Construction Technologies in Japan](http://www.jisf.or.jp/en/activity/sctt/index.html)
 * **Steel** <a name="steel"></a>
 * **Timber** <a name="timber"></a>
 
@@ -38,3 +40,9 @@ Resources (book &amp; document) on internet all about civil engineering
 * **Steel** <a name="codesteel"></a>
 
 ##Geotechnic
+
+##Software
+* **Earthquake Simulation**<a name="soft-earthquake"></a>
+ * [OpenSees](http://opensees.berkeley.edu/), The Open System for Earthquake Engineering Simulation
+ * [Aladdin](http://www.isr.umd.edu/~austin/aladdin.html), A Computational Toolkit for Engineering Matrix and Finite Element Analysis
+ * [NISEE Software Library](https://nisee.berkeley.edu/elibrary/software.html), A collection of research software developed from the 1960s through the early 1990s by PEER, including BIAX-2, CAL-91, ETABS, SAP-IV, NONLIN, etc.
