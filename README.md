@@ -34,7 +34,7 @@ Resources (book &amp; document) on internet all about civil engineering
 
 ###Design Code
 * **Concrete** <a name="codeconcrete"></a>
- * [ACI 318M-14](https://archive.org/details/ACI318M14), Building Code Requirements for Structural Concrete
+ * [ACI 318M-14, Building Code Requirements for Structural Concrete](https://archive.org/details/ACI318M14)
 * **Steel** <a name="codesteel"></a>
 
 ##Geotechnic
