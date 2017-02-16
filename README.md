@@ -15,6 +15,8 @@ Resources (book &amp; document, software) on internet all about civil engineerin
 * [Geotechnic](#geotechnic)
 * [Software](#software)
  * [Earthquake Simulation](#soft-earthquake)
+ * [Geotechnic](#soft-geotechnic)
+ * [Finite Element Analysis](#soft-fea)
 
 ##Structural
 ###Material
@@ -46,3 +48,7 @@ Resources (book &amp; document, software) on internet all about civil engineerin
  * [OpenSees](http://opensees.berkeley.edu/), The Open System for Earthquake Engineering Simulation
  * [Aladdin](http://www.isr.umd.edu/~austin/aladdin.html), A Computational Toolkit for Engineering Matrix and Finite Element Analysis
  * [NISEE Software Library](https://nisee.berkeley.edu/elibrary/software.html), A collection of research software developed from the 1960s through the early 1990s by PEER, including BIAX-2, CAL-91, ETABS, SAP-IV, NONLIN, etc.
+* **Geotechnic**<a name="soft-geotechnic"></a>
+ * [GEO5 Geotechnical Software](http://www.finesoftware.eu/geotechnical-software/) and [its theory](http://www.finesoftware.eu/help/geo5/en/theory-01/), Software suite, providing solution for majority of geotechnical tasks. Demo version is free, but can't save file & export report.
+* **Finite Element Analysis**<a name="soft-fea"></a>
+ * [Calculix](http://www.calculix.de/), A Free Software Three-Dimensional Structural Finite Element Program
