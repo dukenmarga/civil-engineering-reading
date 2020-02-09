@@ -41,7 +41,7 @@ Resources (book &amp; document, software) on internet all about civil engineerin
 
 ### Design Code
 * **Concrete** <a name="codeconcrete"></a>
-  * [ACI 318M-14, Building Code Requirements for Structural Concrete](https://archive.org/details/ACI318M14)
+  * [ACI 318M-14, Building Code Requirements for Structural Concrete](https://www.amazon.com/Building-Requirements-Structural-Concrete-Commentary/dp/1942727119)
 * **Steel** <a name="codesteel"></a>
   * [ANSI/AISC 360-16, Specification for Structural Steel Buildings](https://www.aisc.org/Specification-for-Structural-Steel-Buildings-ANSIAISC-360-16-1)
   * [ANSI/AISC 341-16, Seismic Provisions for Structural Steel Buildings](https://www.aisc.org/2016-Seismic-Provisions)
