@@ -26,6 +26,9 @@ Resources (book &amp; document, software) on internet all about civil engineerin
   * *Article & Paper*
     * [Steel Construction Technologies in Japan](http://www.jisf.or.jp/en/activity/sctt/index.html)
 * **Steel** <a name="steel"></a>
+  * *Magazine*
+    * [Modern Steel Interchange](https://www.aisc.org/modernsteel/resources/steel-interchange/) If you've ever asked yourself "why?" about something related to structural steel design or construction, Modern Steel Construction's monthly Steel Interchange column is for you!
+    * [Modern Steelwise](https://www.aisc.org/modernsteel/resources/steelwise/)
 * **Timber** <a name="timber"></a>
 
 ### Structure
@@ -40,6 +43,8 @@ Resources (book &amp; document, software) on internet all about civil engineerin
 * **Concrete** <a name="codeconcrete"></a>
   * [ACI 318M-14, Building Code Requirements for Structural Concrete](https://archive.org/details/ACI318M14)
 * **Steel** <a name="codesteel"></a>
+  * [ANSI/AISC 360-16, Specification for Structural Steel Buildings](https://www.aisc.org/Specification-for-Structural-Steel-Buildings-ANSIAISC-360-16-1)
+  * [ANSI/AISC 341-16, Seismic Provisions for Structural Steel Buildings](https://www.aisc.org/2016-Seismic-Provisions)
 
 ## Geotechnic
 
@@ -52,3 +57,5 @@ Resources (book &amp; document, software) on internet all about civil engineerin
   * [GEO5 Geotechnical Software](http://www.finesoftware.eu/geotechnical-software/) and [its theory](http://www.finesoftware.eu/help/geo5/en/theory-01/), Software suite, providing solution for majority of geotechnical tasks. Demo version is free, but can't save file & export report.
 * **Finite Element Analysis**<a name="soft-fea"></a>
   * [Calculix](http://www.calculix.de/), A Free Software Three-Dimensional Structural Finite Element Program
+  * [Mecway](https://mecway.com/), Mecway is a comprehensive user friendly finite element analysis package for Windows with a focus on mechanical and thermal simulation such as stress analysis, vibration and heat flow. It is inexpensive and has an intuitive graphical interface for easy mesh creation and display of solutions.
+  * [Z88](https://en.z88.de/)
