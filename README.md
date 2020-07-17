@@ -58,4 +58,6 @@ Resources (book &amp; document, software) on internet all about civil engineerin
 * **Finite Element Analysis**<a name="soft-fea"></a>
   * [Calculix](http://www.calculix.de/), A Free Software Three-Dimensional Structural Finite Element Program
   * [Mecway](https://mecway.com/), Mecway is a comprehensive user friendly finite element analysis package for Windows with a focus on mechanical and thermal simulation such as stress analysis, vibration and heat flow. It is inexpensive and has an intuitive graphical interface for easy mesh creation and display of solutions.
-  * [Z88](https://en.z88.de/)
+  * [Z88 Aurora](https://en.z88.de/), the freeware FEM application with graphical user interface!
+  * [Z88 OS](https://en.z88.de/), fast, powerful and free open source finite element method software for PCs running Windows, Linux and OS X, but also for workstations and more powerful computers running Linux
+  
